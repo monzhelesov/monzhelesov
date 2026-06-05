@@ -52,17 +52,17 @@ Junior DevOps Engineer. Специализируюсь на Kubernetes, авто
 
 ![CI/CD](https://raw.githubusercontent.com/monzhelesov/statusboard/main/docs/images/ci.png)
 
-[Портфолио репо](https://github.com/monzhelesov/statusboard) · [Инфраструктура](https://github.com/monzhelesov/infrastructure) · [Приложение](https://github.com/monzhelesov/statusboard-app) · [K8s конфиг](https://github.com/monzhelesov/k8s-config)
+[StatusBoard](https://github.com/monzhelesov/statusboard)
 
 ## Образование
 
 | Период | Квалификация | Детали |
 |---|---|---|
-| 2023–2026 | DevOps-инженер — проф. переподготовка (900+ часов) | Нетология. Linux, Docker, Kubernetes, Terraform, Ansible, CI/CD, мониторинг, безопасность, базы данных, микросервисы |
+| 2023–2026 | DevOps-инженер — проф. переподготовка (900+ часов) | Нетология |
 | 2023–2026 | Магистр — Реклама и связи с общественностью | АТиСО |
 | 2019–2023 | Бакалавр — Менеджмент | ИМЭС |
 
 ## Контакты
 
 - GitHub: github.com/monzhelesov
-- Email: roman.monzhelesov@bk.ru
+- Email: roman.monzhelesov
