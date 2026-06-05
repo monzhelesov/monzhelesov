@@ -36,31 +36,19 @@ Junior DevOps Engineer. Специализируюсь на Kubernetes, авто
 
 ## Проекты
 
-### StatusBoard — DevOps Infrastructure Platform
+**[StatusBoard — DevOps Infrastructure Platform](https://github.com/monzhelesov/statusboard)**
 
-Сквозной инфраструктурный проект: микросервисное приложение, развёрнутое в Managed Kubernetes с Terraform IaC, GitHub Actions CI/CD и полным стеком Prometheus/Grafana.
+Managed Kubernetes на Yandex Cloud с Terraform IaC, GitHub Actions CI/CD и полным стеком Prometheus/Grafana. Дипломный проект.
 
-**Что внутри:**
-- Terraform: VPC, 3 зоны доступности, Managed K8s кластер, Container Registry, S3 backend для state
-- Kubernetes: Deployments, HPA, NetworkPolicy, RBAC, Ingress
-- CI/CD: lint → test → build → push в registry (по коммиту), deploy в K8s (по тегу)
-- Мониторинг: Prometheus + дашборды Grafana + Alertmanager
-
-![Приложение](https://raw.githubusercontent.com/monzhelesov/statusboard/main/docs/images/app.png)
-
-![Grafana](https://raw.githubusercontent.com/monzhelesov/statusboard/main/docs/images/grafana.png)
-
-![CI/CD](https://raw.githubusercontent.com/monzhelesov/statusboard/main/docs/images/ci.png)
-
-[StatusBoard](https://github.com/monzhelesov/statusboard)
+`Kubernetes` `Terraform` `GitHub Actions` `Prometheus` `Grafana` `Yandex Cloud` `Docker`
 
 ## Образование
 
-| Период | Квалификация | Детали |
-|---|---|---|
-| 2023–2026 | DevOps-инженер — проф. переподготовка (900+ часов) | Нетология |
-| 2023–2026 | Магистр — Реклама и связи с общественностью | АТиСО |
-| 2019–2023 | Бакалавр — Менеджмент | ИМЭС |
+| Период | Степень | Специальность | Учебное заведение |
+|---|---|---|---|
+| 2023–2026 | Диплом о проф. переподготовке (900+ часов) | DevOps-инженер | Нетология |
+| 2023–2026 | Магистр | Реклама и связи с общественностью | АТиСО |
+| 2019–2023 | Бакалавр | Менеджмент | ИМЭС |
 
 ## Контакты
 
