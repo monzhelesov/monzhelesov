@@ -1,6 +1,9 @@
 # Roman Monzhelesov
 
-Junior DevOps Engineer. Специализируюсь на Kubernetes, автоматизации инфраструктуры и построении CI/CD пайплайнов. Строю production-grade инфраструктуру на Yandex Cloud с Terraform, управляемым Kubernetes и полным стеком мониторинга.
+Начинающий DevOps-инженер. Прошёл профессиональную переподготовку (900+ часов), 
+работаю с Linux, Docker, Kubernetes, Terraform, Ansible, GitHub Actions. 
+В дипломном проекте развернул полную инфраструктуру на Yandex Cloud: 
+Managed K8s, Terraform IaC, CI/CD пайплайн, мониторинг (Prometheus + Grafana).
 
 ## Стек
 
