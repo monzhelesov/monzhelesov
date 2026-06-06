@@ -37,7 +37,7 @@ Managed K8s, Terraform IaC, CI/CD пайплайн, мониторинг (Promet
 
 **Языки** — Bash, Python, HCL, SQL
 
-## Проекты
+## Проект
 
 **[StatusBoard — DevOps Infrastructure Platform](https://github.com/monzhelesov/statusboard)**
 
