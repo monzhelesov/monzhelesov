@@ -55,5 +55,5 @@ Managed Kubernetes на Yandex Cloud с Terraform IaC, GitHub Actions CI/CD и �
 
 ## Контакты
 
-- GitHub: github.com/monzhelesov
 - Email: roman.monzhelesov@bk.ru
+- Telegram: @monzhelesov
