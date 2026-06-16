@@ -1,9 +1,6 @@
 # Roman Monzhelesov
 
-Начинающий DevOps-инженер. Прошёл профессиональную переподготовку (900+ часов), 
-работаю с Linux, Docker, Kubernetes, Terraform, Ansible, GitHub Actions. 
-В дипломном проекте развернул полную инфраструктуру на Yandex Cloud: 
-Managed K8s, Terraform IaC, CI/CD пайплайн, мониторинг (Prometheus + Grafana).
+Junior DevOps Engineer. Прошёл двухлетнюю программу профессиональной переподготовки по DevOps в Нетологии. В дипломном проекте развернул инфраструктуру в Yandex Cloud: Managed Kubernetes через Terraform, CI/CD на GitHub Actions, мониторинг на Prometheus + Grafana.
 
 ## Стек
 
